@@ -50,9 +50,12 @@ AgriTech is an innovative web platform designed to empower farmers and agricultu
 
 ## 👥 Team Members & Roles
 
-- **[Om Roy](https://github.com/omroy07)** – Project Lead & Web Developer  & Machine Learning Engineer
-- **[Kanisha Ravindra Sharma](https://github.com/KanishaSharma11)** – Machine Learning Engineer & Backend Developer
-- **[Shubhangi Roy](https://github.com/ShubhangiRoy12)** – Machine Learning Engineer & Backend Developer
+- **[Vivek Kumar](https://github.com/Vivek1034)** – Project Lead & Web Developer  & Machine Learning Engineer
+- **[Birju Kumar](https://github.com/birju0451)** – Web Developer  & Machine Learning Engineer
+- **[Charu Lata](https://github.com/Charu2810)** – Web Developer  & Machine Learning Engineer
+- **[Vishwajeet Pratap](https://github.com/Pratapvishwajeet)** – Machine Learning Engineer & Backend Developer
+- **[Saurabh Kumar Singh](https://github.com/SaurabhKumarSingh2707)** – Machine Learning Engineer & Backend Developer
+- **[Mihir Mohan](https://github.com/Mihir-90 )** – Machine Learning Engineer & Backend Developer
 
 ---
 
